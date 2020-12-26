@@ -114,7 +114,7 @@ $resul1 = mysqli_query($conn,"SELECT *  FROM students");
 	?>
 </div>	
 <div class="middle">
-	<h3>by Krutika Palav</h3>
+	<h3>by Anusha Dhuthapati</h3>
 	<a class="btn" href="">
 		<i class="fab fa-twitter"></i>
     </a>
